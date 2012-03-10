@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.6"?>
+
+<target name="CoreWebTarget" sequenceNumber="228">
+<locations>
+<location path="/home/murphy/localp2/20120309/bundlepool/plugins" type="Directory"/>
+</locations>
+</target>

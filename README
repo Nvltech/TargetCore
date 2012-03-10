@@ -1,0 +1,10 @@
+Set up App:
+
+1. Run p2director.sh get plug-ins
+eq. p2director.sh -addSources -props http://172.27.100.79/repo/p2/com-jije-core.properties -destination ~/localp2/20120310/target -bundlepool ~/localp2/20120310/bundlepool
+
+2. Import this project
+
+3. Open "CoreWeb.target" file then click "Set as Target Platform" in definition tab.
+
+4. Run
